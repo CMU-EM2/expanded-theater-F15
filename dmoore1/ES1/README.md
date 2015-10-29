@@ -1,5 +1,8 @@
-## ES1 Title
+## [ES1 Title](https://github.com/CMU-EM2/expanded-theater-F15/tree/master/dmoore1/ES1)
 ### BY GROUP NAMES
+
+**[MARKDOWN EDITOR](http://dillinger.io/)**
+
 
 On July 2, an alien mothership entered Earth's orbit and deployed several dozen saucer-shaped "destroyer" spacecraft, each 15 miles (24 km) wide.
 
