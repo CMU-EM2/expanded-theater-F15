@@ -27,15 +27,14 @@ On July 3, the Black Knights, a squadron of Marine Corps F/A-18 Hornets, partici
 1. Item 1
 2. Item 2
 3. Item 3
-
-1. Item 1
+4. Item 1
   1. A corollary to the above item.
   2. Yet another point to consider.
-2. Item 2
+5. Item 2
   * A corollary that does not need to be ordered.
     * This is indented four spaces, because it's two spaces further than the item above.
     * You might want to consider making a new list.
-3. Item 3
+6. Item 3
 
 
 Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
